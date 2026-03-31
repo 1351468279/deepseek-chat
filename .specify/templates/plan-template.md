@@ -31,7 +31,16 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+Verify compliance with `.specify/memory/constitution.md`:
+
+- [ ] **TDD**: Tests defined before implementation?
+- [ ] **Readability**: Code follows naming conventions?
+- [ ] **Performance**: Performance budgets defined?
+- [ ] **Testing**: Unit/component/E2E test strategy defined?
+- [ ] **Ambiguity**: All NEEDS CLARIFICATION items resolved?
+- [ ] **TODOs**: Temporary solutions documented with issues?
+
+*If any principle cannot be satisfied, document in Complexity Tracking table below.*
 
 ## Project Structure
 

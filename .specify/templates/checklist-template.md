@@ -20,17 +20,26 @@
   ============================================================================
 -->
 
+## Constitution Compliance
+
+- [ ] CHK001 TDD: Tests written before implementation?
+- [ ] CHK002 Readability: Code follows naming conventions?
+- [ ] CHK003 Performance: Performance budgets defined and met?
+- [ ] CHK004 Testing: Coverage meets 80%+ threshold?
+- [ ] CHK005 Ambiguity: All unclear requirements clarified?
+- [ ] CHK006 TODOs: Temporary solutions documented with issues?
+
 ## [Category 1]
 
-- [ ] CHK001 First checklist item with clear action
-- [ ] CHK002 Second checklist item
-- [ ] CHK003 Third checklist item
+- [ ] CHK101 First checklist item with clear action
+- [ ] CHK102 Second checklist item
+- [ ] CHK103 Third checklist item
 
 ## [Category 2]
 
-- [ ] CHK004 Another category item
-- [ ] CHK005 Item with specific criteria
-- [ ] CHK006 Final item in this category
+- [ ] CHK201 Another category item
+- [ ] CHK202 Item with specific criteria
+- [ ] CHK203 Final item in this category
 
 ## Notes
 

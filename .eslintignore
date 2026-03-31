@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+out/
+
+# Testing
+coverage/
+*.test.js
+*.test.ts
+*.test.tsx
+*.spec.js
+*.spec.ts
+*.spec.tsx
+playwright-report/
+test-results/
+
+# Environment
+.env*
+!.env.example
+
+# Database
+backend/data/*.json
+
+# Config files
+eslint.config.js
+vitest.config.js
+playwright.config.ts
+vite.config.ts
+
+# SpecKit generated files
+specs/
+
+# Ignore files
+.eslintignore
+.prettierignore
+.gitignore
